@@ -733,7 +733,7 @@ $lh) {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  content: url("img/footer/Vector.svg");
+  content: url("../img/footer/Vector.svg");
   width: 30px;
   height: 38px;
 }
@@ -759,7 +759,7 @@ $lh) {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  content: url("img/footer/Vector-1.svg");
+  content: url("../img/footer/Vector-1.svg");
   width: 30px;
   height: 38px;
 }
