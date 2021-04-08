@@ -254,19 +254,19 @@ $lh) {
         width: 210px;
     }
     &__head:nth-child(1):before {
-        content: url("/img/features/ic_round-restaurant-menu.svg");
+        content: url("../img/features/ic_round-restaurant-menu.svg");
         margin: 0px 10px 0px 0px;
         display: flex;
         align-items: center;
     }
     &__head:nth-child(3):before {
-        content: url("/img/features/mdi_alien-outline.svg");
+        content: url("../img/features/mdi_alien-outline.svg");
         margin: 0px 10px 0px 0px;
         display: flex;
         align-items: center;
     }
     &__head:nth-child(5):before {
-        content: url("/img/features/mdi_all-inclusive.svg");
+        content: url("../img/features/mdi_all-inclusive.svg");
         margin: 0px 10px 0px 0px;
         display: flex;
         align-items: center;
@@ -595,7 +595,7 @@ $lh) {
         display: flex;
         align-items: center;
         flex-direction: row;
-        content: url('/img/footer/Vector.svg');
+        content: url('../img/footer/Vector.svg');
         width: 30px;
         height: 38px;
     }
@@ -608,7 +608,7 @@ $lh) {
         display: flex;
         align-items: center;
         flex-direction: row;
-        content: url('/img/footer/Vector-1.svg');
+        content: url('../img/footer/Vector-1.svg');
         width: 30px;
         height: 38px;
     }
@@ -816,19 +816,19 @@ $lh) {
             width: 210px;
         }
         &__head:nth-child(1):before {
-            content: url("/img/features/ic_round-restaurant-menu.svg");
+            content: url("../img/features/ic_round-restaurant-menu.svg");
             margin: 0px 10px 0px 0px;
             display: flex;
             align-items: center;
         }
         &__head:nth-child(3):before {
-            content: url("/img/features/mdi_alien-outline.svg");
+            content: url("../img/features/mdi_alien-outline.svg");
             margin: 0px 10px 0px 0px;
             display: flex;
             align-items: center;
         }
         &__head:nth-child(5):before {
-            content: url("/img/features/mdi_all-inclusive.svg");
+            content: url("../img/features/mdi_all-inclusive.svg");
             margin: 0px 10px 0px 0px;
             display: flex;
             align-items: center;
@@ -1052,7 +1052,7 @@ $lh) {
             display: flex;
             align-items: center;
             flex-direction: row;
-            content: url('/img/footer/Vector.svg');
+            content: url('../img/footer/Vector.svg');
             width: 30px;
             height: 38px;
         }
@@ -1065,7 +1065,7 @@ $lh) {
             display: flex;
             align-items: center;
             flex-direction: row;
-            content: url('/img/footer/Vector-1.svg');
+            content: url('../img/footer/Vector-1.svg');
             width: 30px;
             height: 38px;
         }
@@ -1259,19 +1259,19 @@ $lh) {
             width: 210px;
         }
         &__head:nth-child(1):before {
-            content: url("/img/features/ic_round-restaurant-menu.svg");
+            content: url("../img/features/ic_round-restaurant-menu.svg");
             margin: 0px 10px 0px 0px;
             display: flex;
             align-items: center;
         }
         &__head:nth-child(3):before {
-            content: url("/img/features/mdi_alien-outline.svg");
+            content: url("../img/features/mdi_alien-outline.svg");
             margin: 0px 10px 0px 0px;
             display: flex;
             align-items: center;
         }
         &__head:nth-child(5):before {
-            content: url("/img/features/mdi_all-inclusive.svg");
+            content: url("../img/features/mdi_all-inclusive.svg");
             margin: 0px 10px 0px 0px;
             display: flex;
             align-items: center;
@@ -1364,7 +1364,7 @@ $lh) {
             display: flex;
             align-items: center;
             flex-direction: row;
-            content: url('/img/footer/Vector.svg');
+            content: url('../img/footer/Vector.svg');
             width: 30px;
         }
         &__address {
@@ -1376,7 +1376,7 @@ $lh) {
             display: flex;
             align-items: center;
             flex-direction: row;
-            content: url('/img/footer/Vector-1.svg');
+            content: url('../img/footer/Vector-1.svg');
             width: 30px;
         }
         // .footer__phone
