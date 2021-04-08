@@ -277,7 +277,7 @@ $lh) {
 }
 
 .features__head:nth-child(1):before {
-  content: url("img/features/ic_round-restaurant-menu.svg");
+  content: url("../img/features/ic_round-restaurant-menu.svg");
   margin: 0px 10px 0px 0px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -288,7 +288,7 @@ $lh) {
 }
 
 .features__head:nth-child(3):before {
-  content: url("img/features/mdi_alien-outline.svg");
+  content: url("../img/features/mdi_alien-outline.svg");
   margin: 0px 10px 0px 0px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -299,7 +299,7 @@ $lh) {
 }
 
 .features__head:nth-child(5):before {
-  content: url("img/features/mdi_all-inclusive.svg");
+  content: url("../img/features/mdi_all-inclusive.svg");
   margin: 0px 10px 0px 0px;
   display: -webkit-box;
   display: -ms-flexbox;
